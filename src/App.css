@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.bg-nav{
+  background-color: #71d1bc;
+}
+.p-header{font-size: 30px}
+.left-header{
+  margin-left: 35%;
+}
+.right-header{
+  margin-left: 45%;
+}
+.div-container{
+  margin-top: 5%;
+  background-color: #D9D9D9;
+}
+.color-font-nav{
+  font-weight: bold;
+}
+.rounded-main-box{
+  border-radius: 50px;
+}
+
